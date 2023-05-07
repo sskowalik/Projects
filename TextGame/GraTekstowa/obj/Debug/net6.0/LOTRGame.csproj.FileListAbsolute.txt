@@ -1,0 +1,15 @@
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\LOTRGame.exe
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\LOTRGame.deps.json
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\LOTRGame.runtimeconfig.json
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\LOTRGame.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\LOTRGame.pdb
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.csproj.AssemblyReference.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.AssemblyInfoInputs.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.AssemblyInfo.cs
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.csproj.CoreCompileInputs.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\refint\LOTRGame.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.pdb
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\LOTRGame.genruntimeconfig.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\ref\LOTRGame.dll

@@ -1,0 +1,15 @@
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\GraTekstowa.exe
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\GraTekstowa.deps.json
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\GraTekstowa.runtimeconfig.json
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\GraTekstowa.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\bin\Debug\net6.0\GraTekstowa.pdb
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.csproj.AssemblyReference.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.AssemblyInfoInputs.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.AssemblyInfo.cs
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.csproj.CoreCompileInputs.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\refint\GraTekstowa.dll
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.pdb
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\GraTekstowa.genruntimeconfig.cache
+I:\Projekt Zaliczeniowy C#\GraTekstowa\GraTekstowa\obj\Debug\net6.0\ref\GraTekstowa.dll
