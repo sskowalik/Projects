@@ -1,0 +1,71 @@
+import { StyleSheet } from 'react-native';
+export const styles_notifications = StyleSheet.create({
+  container: {
+    flexDirection: 'column',
+    backgroundColor: '#FFFFFF',
+  },    
+  containerTopBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#F2F2F2',
+    height: 70,
+  },  
+  herbPolski: {
+    width: 51,
+    height: 60,
+    marginLeft: '25%',
+    marginTop: '1%',
+    marginRight:'0%',
+    paddingRight: '0%',
+  },
+  urzedasPl: {
+    marginTop: '1%',
+    marginLeft: '5%',
+    fontStyle: 'normal',
+    fontWeight: '600',
+    fontSize: 30,
+    lineHeight: 48,
+    color: '#000000',
+  },
+  notificationHeader: {
+    marginLeft: '4%',
+    marginTop: '6%',
+    fontStyle: 'normal',
+    fontWeight: '600',
+    fontSize: 24,
+    color: '#656575',
+    width: 400,
+  },
+  notificationText: {
+    fontStyle: 'normal',
+    marginTop: '4%',
+    fontWeight: '600',
+    fontSize: 18,
+    lineHeight: 20,
+    color: '#B3B3B3',
+  }, 
+  notificationText2: {
+    fontStyle: 'normal',
+    marginTop: '16%',
+    marginLeft: '44%',
+    fontWeight: '200',
+    fontSize: 14,
+    lineHeight: 16,
+    color: '#B3B3B3',
+  }, 
+  notificationButton: {
+    marginTop: '8%',
+    alignItems: 'center',
+    borderWidth: 5,
+    borderColor: '#D6D6D6',
+    borderRadius: 40,
+    height: 120,
+    width: 320,
+    backgroundColor: '#F2F2F2',
+  }, 
+  containerNotifications: {
+    flexDirection: 'column',
+    height: 604,
+    alignItems: 'center'
+  },  
+});
